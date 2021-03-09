@@ -6,7 +6,7 @@
 - Perform dequeue to remove a first element of a queue.
 - check underflow
 - check if queue has only one element.
-- 
+
 # Square Queue
 - perform enqueue where we check the condition for overflow
 - Do squaring  of an element.
